@@ -12,3 +12,7 @@
 5. Ввести команду в командной строке/Powershell: `py footwear_filter_test.py` или `python footwear_filter_test.py`
 
 **Примечание:** данная программа может неправильно работать, если всплывает окно с рекламой. Также, по желанию, можно использовать другой веб драйвер.
+
+Тестирование:
+Google Docs: https://docs.google.com/document/d/1S9KE83Q2tKjrLHXBTfxH9xCiPyBuDRN1bAhepxTRPKE/edit?usp=sharing
+Qase: https://drive.google.com/file/d/1FzKcHFaCfFXy3IU5UUamj07EcPf5XunB/view?usp=sharing
