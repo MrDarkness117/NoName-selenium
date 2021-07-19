@@ -3,7 +3,7 @@
 
 Чтобы использовать фреймворк:
 - Установите [Веб-драйвер Chrome](https://chromedriver.chromium.org/downloads) (ChromeDriver 91.0.4472.101), укажите его в системе переменных окружения PATH в папке назначения веб-драйверов.
-- Активируйте скрипт при помощи ~/venv/Scripts/activate (MAC/Linux) activate.bat (Командная строка Windows cmd.exe) ./activate.ps1 (PowerShell, тоже Windows).
+- Активируйте скрипт при помощи `~/venv/Scripts/activate` (MAC/Linux) `activate.bat` (Командная строка Windows cmd.exe) `./activate.ps1` (PowerShell, тоже Windows). Подробное описание ниже.
 
 1. В Папке venv/Scripts содержатся вышеуказанные скрипты для активации - выбирайте под вашу систему.
 2. Для Windows: внутри папки Scripts зажмите клавишу Shift и нажмите правой кнопкой мыши по окну папки, откройте либо командную строку, либо окно PowerShell.
