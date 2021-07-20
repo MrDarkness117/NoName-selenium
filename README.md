@@ -1,4 +1,4 @@
-# NoName-selenium
+# NoOne-selenium
  Selenium framework for testing NoName shop website
 
 Чтобы использовать фреймворк:
