@@ -1,5 +1,5 @@
 # NoOne-selenium
- Selenium framework for testing NoName shop website
+ Selenium framework for testing NoOne shop website
 
 Чтобы использовать фреймворк:
 - Установите [Веб-драйвер Chrome](https://chromedriver.chromium.org/downloads) (ChromeDriver 91.0.4472.101), укажите его в системе переменных окружения PATH в папке назначения веб-драйверов.
